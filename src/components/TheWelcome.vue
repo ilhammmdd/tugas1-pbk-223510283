@@ -16,7 +16,7 @@ import SupportIcon from './icons/IconSupport.vue'
     <template #heading>Documentation</template>
     senior high school :  <a href="http://www.smklabor.sch.id/" target="_blank" rel="noopener">SMK Labor Pekanbaru</a>
     <br>
-    college : <a href="https://uir.ac.id/" target="_blank" rel="noopener">Univeritas Islam Riau</a>
+    college : <a href="https://uir.ac.id/" target="_blank" rel="noopener">Universitas Islam Riau</a>
   </WelcomeItem>
 
 
