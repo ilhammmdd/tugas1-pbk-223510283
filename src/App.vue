@@ -9,7 +9,7 @@ import TheWelcome from './components/TheWelcome.vue'
     <img alt="Vue logo" class="logo" src="./assets/pht.jpeg" width="350" height="150" />
 
     <div class="wrapper">
-      <HelloWorld msg="Welcome To My Portofolio" />
+      <HelloWorld msg="Welcomeee To My Portofolio" />
     </div>
   </header>
 
